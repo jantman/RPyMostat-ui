@@ -1,5 +1,5 @@
 # RPyMostat-ui
 
-[![Project Status: Concept – Minimal or no implementation has been done yet.](http://www.repostatus.org/badges/latest/concept.svg)](http://www.repostatus.org/#concept)
+[![Project Status: Abandoned – Initial development has started, but there has not yet been a stable, usable release; the project has been abandoned and the author(s) do not intend on continuing development.](http://www.repostatus.org/badges/latest/abandoned.svg)](http://www.repostatus.org/#abandoned)
 
-Web UI for RPyMostat Project.
+Web UI for RPyMostat Project. __Abandoned.__
